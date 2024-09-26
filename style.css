@@ -1,0 +1,31 @@
+body {
+    background-color: #181818; 
+    color: #f8f8f8; 
+    font-family: Arial, sans-serif;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    flex-direction: column;
+}
+
+h1 {
+    font-size: 3em;
+    margin: 0.5em 0;
+    font-weight: bold;
+}
+
+p {
+    font-size: 1.5em; 
+    font-weight: normal;
+    margin: 0.2em 0;
+    color: #e5e5e5;
+}
+
+
+img {
+    width: 80px; 
+    margin-bottom: 20px;
+}
